@@ -1,7 +1,7 @@
 # Header of the file 
 ### next
 ###### This is the sixth heading in the md file 
-![alt text][image](https://octodex.github.com/images/yaktocat.png)
+![alt-text!][image to yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
